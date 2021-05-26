@@ -1,0 +1,6 @@
+C:\Users\yasin\Desktop\SavasOyunu-master (1)\SavasOyunu-master\Savas.Library\bin\Debug\Savas.Library.dll
+C:\Users\yasin\Desktop\SavasOyunu-master (1)\SavasOyunu-master\Savas.Library\bin\Debug\Savas.Library.pdb
+C:\Users\yasin\Desktop\SavasOyunu-master (1)\SavasOyunu-master\Savas.Library\obj\Debug\Savas.Library.csprojAssemblyReference.cache
+C:\Users\yasin\Desktop\SavasOyunu-master (1)\SavasOyunu-master\Savas.Library\obj\Debug\Savas.Library.csproj.CoreCompileInputs.cache
+C:\Users\yasin\Desktop\SavasOyunu-master (1)\SavasOyunu-master\Savas.Library\obj\Debug\Savas.Library.dll
+C:\Users\yasin\Desktop\SavasOyunu-master (1)\SavasOyunu-master\Savas.Library\obj\Debug\Savas.Library.pdb
